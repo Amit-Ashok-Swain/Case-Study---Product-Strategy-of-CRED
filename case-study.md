@@ -29,8 +29,10 @@
 - **Gems (Referral reward):** Referral is also a common strategy used for increasing adoption across many products.
 
 
- <image>
-
+    <h3 align = "center">  Image Description: Gems Reward </h3>
+  <p align="center">
+  <img src="https://github.com/Amit-Ashok-Swain/Case-Study-Product-Strategy-of-CRED/blob/main/images/01.png?raw=true" alt="Gems Reward"/>
+       </p>
 
  - What Cred did here slightly differently was using game mechanics. Every referral got you ‘Gems’. You could see your gems grow and you can sell these gems for cool rewards.
 
@@ -41,7 +43,10 @@
 - **Coins:** Every time someone uses the app to make payment — they earn cred coins. They could have made 1 Rupee = 1 Cred Coin. But to give a sense of higher earning, coins are awarded disproportionately higher than the amount you pay for.
 
 
-<image>
+    <h3 align = "center">  Image Description: Coins Redemption </h3>
+  <p align="center">
+  <img src="https://github.com/Amit-Ashok-Swain/Case-Study-Product-Strategy-of-CRED/blob/main/images/02.png?raw=true" alt="Coins Redemption"/>
+       </p>
 
 
 - Once activation was done, it was about keeping the users engaged. Here too CRED product team came with the strategy of gamifying the experience to keep users engaged. Not only were users rewarded with points, the rewards were also variable. Sometimes you might get cashbacks, other times you might get vouchers and so on. So this gamified product helped increase engagement.
@@ -50,7 +55,10 @@
 - **Variable Rewards through Games:** You could also play a game and win rewards. You can keep spending coins and buy slots and play games.
 
 
-<image>
+    <h3 align = "center">  Image Description: Coins Balance & Lifetime Earnings</h3>
+  <p align="center">
+  <img src="https://github.com/Amit-Ashok-Swain/Case-Study-Product-Strategy-of-CRED/blob/main/images/03.png?raw=true" alt="Coins Balance & Lifetime Earnings"/>
+       </p>
 
 
 - So CRED is a very good case study to understand how product strategies can help increase acquisition, activation and engagement.
