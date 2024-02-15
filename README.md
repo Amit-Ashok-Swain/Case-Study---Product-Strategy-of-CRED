@@ -1,6 +1,6 @@
-# CRED Product Strategy Case Study
+# CRED Product Strategy: Case Study
 
-Welcome to the CRED Product Strategy Case Study repository! Here, you'll find an in-depth analysis of CRED's groundbreaking product strategies that have propelled it to become one of India's most successful unicorns. From simplifying credit card payments to fostering user engagement through gamification, CRED's approach is dissected and examined in detail.
+Welcome to the CRED Product Strategy: Case Study, here, you'll find an in-depth analysis of CRED's groundbreaking product strategies that have propelled it to become one of India's most successful unicorns. From simplifying credit card payments to fostering user engagement through gamification, CRED's approach is dissected and examined in detail.
 
 ## Table of Contents
 1. [Introduction](#introduction)
